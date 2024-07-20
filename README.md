@@ -1,6 +1,5 @@
-<div style="text-align: center; background-color: black; padding: 20px;">
-  <img src=""C:\Users\yasse\Pictures\Screenshots\Screenshot 2024-07-20 034831.png"" alt="Stock Synergy" style="max-width: 100%; height: auto;">
-</div>
+![Screenshot 2024-07-20 035542](https://github.com/user-attachments/assets/8a17745a-b1ed-4ad5-a583-60280ca41a94)
+
 <h2>Features</h2>
 <ul>
   <li>Monitors the current gold price</li>
