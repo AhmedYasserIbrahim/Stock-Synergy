@@ -5,6 +5,7 @@
   <li>Monitors the current gold price</li>
   <li>Calculates the profit based on the initial investment and the current price</li>
   <li>Sends progress notifications to keep you updated on your investment</li>
+  <li>Tests various trading strategies without any risk</li>
 </ul>
 
 <h2>Contribution and Feedback</h2>
